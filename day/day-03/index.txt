@@ -1,0 +1,598 @@
+3:I[4707,[],""]
+5:I[5365,["972","static/chunks/972-a5e5ad2f066e4cfb.js","976","static/chunks/app/day/%5Bslug%5D/error-223c0072cf8fde3b.js"],"default"]
+6:I[6423,[],""]
+7:I[6460,["972","static/chunks/972-a5e5ad2f066e4cfb.js","199","static/chunks/199-4be9c720bf9cae77.js","242","static/chunks/242-1837fa62ccbdecd8.js","733","static/chunks/733-21d29de1facb1f63.js","765","static/chunks/765-2750b9fdbf9c053c.js","185","static/chunks/app/layout-3df2568fb7be64dc.js"],"Nav"]
+8:I[9792,["972","static/chunks/972-a5e5ad2f066e4cfb.js","160","static/chunks/app/not-found-47539f4a869d7f71.js"],"PandaFace"]
+9:I[2972,["972","static/chunks/972-a5e5ad2f066e4cfb.js","199","static/chunks/199-4be9c720bf9cae77.js","242","static/chunks/242-1837fa62ccbdecd8.js","733","static/chunks/733-21d29de1facb1f63.js","765","static/chunks/765-2750b9fdbf9c053c.js","185","static/chunks/app/layout-3df2568fb7be64dc.js"],""]
+a:I[9765,["972","static/chunks/972-a5e5ad2f066e4cfb.js","199","static/chunks/199-4be9c720bf9cae77.js","242","static/chunks/242-1837fa62ccbdecd8.js","733","static/chunks/733-21d29de1facb1f63.js","765","static/chunks/765-2750b9fdbf9c053c.js","185","static/chunks/app/layout-3df2568fb7be64dc.js"],"FeedbackLink"]
+b:I[9765,["972","static/chunks/972-a5e5ad2f066e4cfb.js","199","static/chunks/199-4be9c720bf9cae77.js","242","static/chunks/242-1837fa62ccbdecd8.js","733","static/chunks/733-21d29de1facb1f63.js","765","static/chunks/765-2750b9fdbf9c053c.js","185","static/chunks/app/layout-3df2568fb7be64dc.js"],"FeedbackHost"]
+4:["slug","day-03","d"]
+0:["KC-RXaWXXXwm2vAoSjrDl",[[["",{"children":["day",{"children":[["slug","day-03","d"],{"children":["__PAGE__?{\"slug\":\"day-03\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["day",{"children":[["slug","day-03","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","day","children","$4","children"],"error":"$5","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","day","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/hsk1journey/_next/static/css/e064c236dfbac226.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"className":"min-h-screen bg-paper font-sans text-[15px] text-ink antialiased","children":[["$","a",null,{"href":"#main","className":"sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-50 focus:rounded-lg focus:bg-jade focus:px-4 focus:py-2 focus:text-white","children":"Перейти к содержанию"}],["$","$L7",null,{}],["$","main",null,{"id":"main","className":"mx-auto max-w-6xl px-4 pb-28 pt-6 sm:px-6 lg:pb-16","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"py-16","children":["$","div",null,{"className":"rounded-xl2 border border-dashed border-line bg-panel/60 px-6 py-10 text-center","children":[["$","$L8",null,{"mood":"surprised","className":"mx-auto mb-3 h-14 w-14"}],["$","h3",null,{"className":"text-[15px] font-bold","children":"Страница не найдена"}],["$","p",null,{"className":"mx-auto mt-1.5 max-w-md text-[13.5px] leading-relaxed text-ink2","children":"Такой страницы в курсе нет. Вернитесь к пути и продолжите с того дня, на котором остановились."}],["$","$L9",null,{"href":"/journey","className":"mt-4 inline-flex rounded-lg bg-jade px-4 py-2 text-[13.5px] font-bold text-white hover:bg-jade2","children":"Открыть путь"}]]}]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"border-t border-line bg-soft/50 pb-20 lg:pb-0","data-testid":"site-footer","children":["$","div",null,{"className":"mx-auto max-w-6xl px-4 py-7 text-[12.5px] text-ink2 sm:px-6","children":[["$","div",null,{"className":"flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 gap-y-1","children":[["$","span",null,{"className":"rounded-md bg-seal/10 px-2 py-0.5 font-mono text-[11px] font-extrabold uppercase tracking-[.14em] text-seal2","data-testid":"beta-mark","children":"Бета-тест"}],["$","span",null,{"children":["HSK 1 Journey · ","HSK 3.0 (2026)"," · версия ","1.0.0"]}]]}],["$","p",null,{"className":"flex flex-wrap gap-x-4 gap-y-1","children":[["$","$La",null,{"className":"font-bold text-seal2 hover:underline"}],["$","$L9",null,{"href":"/about/","className":"hover:text-ink","children":"О курсе"}],["$","$L9",null,{"href":"/settings/","className":"hover:text-ink","children":"Настройки"}]]}]]}],["$","p",null,{"className":"mt-3 max-w-3xl pr-12 text-[11.5px] leading-relaxed text-ink3 sm:pr-0","data-testid":"copyright","children":"© 2026 igachinese. Все права защищены. Копирование, распространение и использование материалов курса — текстов, заданий, иллюстраций и кода — без письменного разрешения автора запрещены."}]]}]}],["$","$Lb",null,{}]]}]}]],null],[["$","div",null,{"className":"animate-pulse space-y-4 py-8","aria-live":"polite","aria-busy":"true","children":[["$","div",null,{"className":"h-8 w-2/3 rounded-lg bg-line2"}],["$","div",null,{"className":"h-4 w-1/2 rounded bg-line2"}],["$","div",null,{"className":"grid gap-3 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div","0",{"className":"h-24 rounded-xl2 bg-line2"}],["$","div","1",{"className":"h-24 rounded-xl2 bg-line2"}],["$","div","2",{"className":"h-24 rounded-xl2 bg-line2"}],["$","div","3",{"className":"h-24 rounded-xl2 bg-line2"}]]}],["$","div",null,{"className":"h-64 rounded-xl2 bg-line2"}],["$","span",null,{"className":"sr-only","children":"Загружаем материалы курса…"}]]}],[],[]]],["$Lc",null]]]]
+d:I[8930,["972","static/chunks/972-a5e5ad2f066e4cfb.js","199","static/chunks/199-4be9c720bf9cae77.js","242","static/chunks/242-1837fa62ccbdecd8.js","733","static/chunks/733-21d29de1facb1f63.js","629","static/chunks/629-4c9ca9cd0e9852a4.js","552","static/chunks/552-dd502c43d40fcafb.js","785","static/chunks/785-385a06f3c26e90f0.js","465","static/chunks/465-61985a3be03d24d1.js","50","static/chunks/50-6b5c764329d3aa93.js","511","static/chunks/511-d940652e2d7b323f.js","358","static/chunks/358-9f730ce20c6d79c1.js","188","static/chunks/188-39355f1536da726a.js","401","static/chunks/401-3dc140c39017476a.js","554","static/chunks/554-6fd5861eb2147a7e.js","700","static/chunks/700-6e5f99b9fd12f998.js","405","static/chunks/app/day/%5Bslug%5D/page-68685d66e659b03b.js"],"DayView"]
+e:T7b3,<p class="lead">Each word shown as hanzi + pinyin + meaning, with the Vocabulary-Master category tag. Triple-encoding = touchpoint <b>T1</b> (introduction), credited program-wide once.</p>
+<div class="exgrid">
+<div class="vc"><span class="hz">叫</span><div class="meta mono">jiào · L · W91</div><div class="en">to be called; to call</div></div>
+<div class="vc"><span class="hz">名字</span><div class="meta mono">míngzi · K · W131</div><div class="en">name</div></div>
+<div class="vc"><span class="hz">什么</span><div class="meta mono">shénme · D · W183</div><div class="en">what</div></div>
+<div class="vc"><span class="hz">的</span><div class="meta mono">de · P · W30</div><div class="en">(possessive / attributive particle)</div></div>
+<div class="vc"><span class="hz">这</span><div class="meta mono">zhè · C · W280</div><div class="en">this</div></div>
+<div class="vc"><span class="hz">那</span><div class="meta mono">nà · C · W137</div><div class="en">that; in that case</div></div>
+<div class="vc"><span class="hz">认识</span><div class="meta mono">rènshi · M · W172</div><div class="en">to know (be acquainted)</div></div>
+<div class="vc"><span class="hz">朋友</span><div class="meta mono">péngyou · E · W157</div><div class="en">friend</div></div>
+<div class="vc"><span class="hz">先生</span><div class="meta mono">xiānsheng · E · W232</div><div class="en">Mr.; sir; husband</div></div>
+<div class="vc"><span class="hz">女士</span><div class="meta mono">nǚshì · E · W156</div><div class="en">lady; Ms.</div></div>
+<div class="vc"><span class="hz">男</span><div class="meta mono">nán · E · W143</div><div class="en">male, man</div></div>
+<div class="vc"><span class="hz">女</span><div class="meta mono">nǚ · E · W153</div><div class="en">female, woman</div></div>
+<div class="vc"><span class="hz">男朋友</span><div class="meta mono">nánpéngyou · E · W144</div><div class="en">boyfriend</div></div>
+</div>f:T740,<p class="lead">≤3 points, easy → harder. One canonical pattern each; examples use only words taught by today (no forward references).</p>
+<div class="card learn"><div class="exhead"><span class="code" style="background:var(--blue)">G6</span><span class="exname">Possessive &amp; attributive 的</span></div><div class="grule"><div class="exbody">Link an owner (or modifier) to a noun with 的: <span class="hz">X 的 Y</span>. <div class="ex"><span class="hz">这是我的朋友。</span> <span class="py">Zhè shì wǒ de péngyou.</span> — This is my friend.</div><div class="ex"><span class="hz">那是你的名字吗?</span> <span class="py">Nà shì nǐ de míngzi ma?</span> — Is that your name?</div></div></div></div>
+<div class="card learn"><div class="exhead"><span class="code" style="background:var(--blue)">G7</span><span class="exname">Asking “what” with 什么</span></div><div class="grule"><div class="exbody">Put 什么 where the answer will go; the word order does not change. <div class="ex"><span class="hz">你叫什么名字?</span> <span class="py">Nǐ jiào shénme míngzi?</span> — What is your name?</div><div class="ex"><span class="hz">这是什么?</span> <span class="py">Zhè shì shénme?</span> — What is this?</div></div></div></div>
+<div class="card learn"><div class="exhead"><span class="code" style="background:var(--blue)">G9</span><span class="exname">Demonstratives 这/那 + 是</span></div><div class="grule"><div class="exbody">Point things out with 这是… (this is…) and 那是… (that is…). <div class="ex"><span class="hz">这是我的男朋友。</span> <span class="py">Zhè shì wǒ de nánpéngyou.</span> — This is my boyfriend.</div><div class="ex"><span class="hz">那是女士。</span> <span class="py">Nà shì nǚshì.</span> — That is a lady.</div></div></div></div>10:T8ee,<div class="card prac">
+<div class="exhead"><span class="code">G05</span><span class="exname">Question Transform Ma</span><span class="extitle">“Make it a question (吗)”</span><span class="tp">T2</span><span class="tagk keyed">KEYED</span></div>
+<div class="exbody">Turn each statement into a yes/no question by adding 吗. <b>1</b> <span class="hz">这是我的朋友。</span>   <b>2</b> <span class="hz">那是你的名字。</span></div>
+<div class="key"><b>Key:</b> 1 → <span class="hz">这是我的朋友吗?</span>   2 → <span class="hz">那是你的名字吗?</span></div>
+<div class="fb">✗ → nothing moves except 吗 at the very end (G3, Day 1).</div>
+</div>
+<div class="card prac">
+<div class="exhead"><span class="code">G06</span><span class="exname">Element Substitution</span><span class="extitle">“Swap this/that &amp; the person”</span><span class="tp">T2</span><span class="tagk keyed">KEYED</span></div>
+<div class="exbody">Rewrite, swapping <span class="hz">这</span>↔<span class="hz">那</span> and changing the person. <b>1</b> <span class="hz">这是先生。</span> → (that / 女士)   <b>2</b> <span class="hz">那是男朋友。</span> → (this / 先生)</div>
+<div class="key"><b>Key:</b> 1 → <span class="hz">那是女士。</span>   2 → <span class="hz">这是先生。</span></div>
+<div class="fb">✗ → swap only the demonstrative and the noun; 是 and order stay put (G9).</div>
+</div>
+<div class="card prac">
+<div class="exhead"><span class="code">V01</span><span class="exname">Matching</span><span class="extitle">“Match the meaning”</span><span class="tp">T2</span><span class="tagk keyed">KEYED</span></div>
+<div class="exbody">Pair each word with its meaning. <b>1</b> 什么 · <b>2</b> 名字 · <b>3</b> 叫 · <b>4</b> 认识 · <b>5</b> 朋友 · <b>6</b> 先生 · <b>7</b> 女士 · <b>8</b> 男 · <b>9</b> 女 · <b>10</b> 男朋友  ↔  (a) name (b) friend (c) what (d) to be called (e) to know / be acquainted (f) lady, Ms. (g) Mr., sir (h) male (i) female (j) boyfriend</div>
+<div class="key"><b>Key:</b> 1-c · 2-a · 3-d · 4-e · 5-b · 6-g · 7-f · 8-h · 9-i · 10-j.</div>
+<div class="fb">✗ on 男/女 → 男 has 田 (field) on top; 女 is the standalone ‘woman’ radical.</div>
+</div>11:T562,<p class="lead">Connected written input — meaning recovered from context (touchpoint <b>T3</b>).</p>
+<div class="card prac">
+<div class="exhead"><span class="code">R01</span><span class="exname">Dialogue Comprehension</span><span class="extitle">“Two friends meet”</span><span class="tp">T3</span><span class="tagk keyed">KEYED</span></div>
+<div class="exbody">Read, then answer.<div class="grule" style="margin-top:6px"><div class="ex"><b>A:</b> <span class="hz">你好!你叫什么名字?</span> <span class="py">Nǐhǎo! Nǐ jiào shénme míngzi?</span></div><div class="ex"><b>B:</b> <span class="hz">我叫王红。这是我的朋友,他叫李明。</span> <span class="py">Wǒ jiào Wáng Hóng. Zhè shì wǒ de péngyou, tā jiào Lǐ Míng.</span></div><div class="ex"><b>A:</b> <span class="hz">认识你!他是先生吗?</span> <span class="py">Rènshi nǐ! Tā shì xiānsheng ma?</span></div><div class="ex"><b>B:</b> <span class="hz">他是学生。</span> <span class="py">Tā shì xuésheng.</span></div></div><b>Q1.</b> What does A ask first?   <b>Q2.</b> Who is 李明 to B?   <b>Q3.</b> Is 李明 a 先生 or a 学生?</div>
+<div class="key"><b>Key:</b> Q1 B’s name (你叫什么名字?) · Q2 B’s friend (我的朋友) · Q3 a 学生 (student).</div>
+<div class="fb">✗ → 王红 / 李明 are people’s names, not new vocabulary.</div>
+</div>12:T6e9,<p class="lead">Answerable from sound alone (EC-13 / LN-1). Until audio is produced, each script reveals on tap; clips are in Attachment A. (touchpoint <b>T3</b>)</p>
+<div class="card prac">
+<div class="exhead"><span class="code">L01</span><span class="exname">Comprehension Mcq</span><span class="extitle">“What did you hear?”</span><span class="tp">T3</span><span class="tagk keyed">KEYED</span><span class="tagk audio">AUDIO-ONLY</span></div>
+<div class="exbody">Hear a line, choose its meaning. <b>1</b> [<span class="mono">HSK1.D03.LC.01</span>] → (a) “This is my friend.” (b) “That is my teacher.”   <b>2</b> [<span class="mono">HSK1.D03.LC.02</span>] → (a) “This is a lady.” (b) “That is a gentleman.”</div>
+<div class="key"><b>Key:</b> 1-a (这是我的朋友。) · 2-b (那是先生。)</div>
+<div class="fb">✗ → replay slowly; listen for 这 (zhè) vs 那 (nà) at the start.</div>
+</div>
+<div class="card prac">
+<div class="exhead"><span class="code">L03</span><span class="exname">Dictation</span><span class="extitle">“Write what you hear”</span><span class="tp">T3</span><span class="tagk keyed">KEYED</span><span class="tagk audio">AUDIO-ONLY</span></div>
+<div class="exbody">Each word is said once; write the hanzi (or pinyin) you hear. <b>1</b> [<span class="mono">HSK1.D03.DCT.01</span>]   <b>2</b> [<span class="mono">HSK1.D03.DCT.02</span>]   <b>3</b> [<span class="mono">HSK1.D03.DCT.03</span>]   <b>4</b> [<span class="mono">HSK1.D03.DCT.04</span>]</div>
+<div class="key"><b>Key (this build):</b> 1 → 男 (nán) · 2 → 女 (nǚ) · 3 → 男朋友 (nánpéngyou) · 4 → 女士 (nǚshì).</div>
+<div class="fb">✗ on 男/女 → both start n-; the vowel differs (nán vs nǚ). Replay slowly.</div>
+</div>13:T4d3,<p class="lead">Output the written form (touchpoint <b>T4</b>); tracing/copying are self-assessed against a rubric (EC-12).</p>
+<div class="card prac">
+<div class="exhead"><span class="code self">W01</span><span class="exname">Character Tracing</span><span class="extitle">“Trace”</span><span class="tp">T4</span><span class="tagk selfa">SELF</span></div>
+<div class="exbody">Trace, following stroke order: <span class="hz">名字</span> · <span class="hz">朋友</span> · <span class="hz">男</span> · <span class="hz">女</span>.</div>
+<div class="rubric">✓ strokes in order, roughly square · ~ shape right, order slips · ✗ skipped strokes. Trace each twice.</div>
+</div>
+<div class="card prac">
+<div class="exhead"><span class="code self">W04</span><span class="exname">Guided Copying</span><span class="extitle">“Copy the introduction”</span><span class="tp">T4</span><span class="tagk selfa">SELF</span></div>
+<div class="exbody">Copy each once, from the model: <span class="hz">这是我的朋友。</span> · <span class="hz">那是女士。</span> · <span class="hz">他是先生。</span></div>
+<div class="rubric">✓ matches the model and is readable · ✗ wrong component → copy once more.</div>
+</div>14:T5c5,<p class="lead">5–10 min, mobile-doable. Reinforces today; primes exactly one item of tomorrow (HW-2/5).</p>
+<div class="card home">
+<div class="exhead"><span class="code">G12</span><span class="exname">Grammar Error Correction</span><span class="extitle">“Fix yesterday’s sentence”</span><span class="tp">T2</span><span class="tagk keyed">KEYED</span></div>
+<div class="exbody">Each has one error in a <b>Day 1–2</b> pattern (是 / 不是 / 吗 / 们). Fix it. <b>1</b> <span class="hz">他们不学生。</span>   <b>2</b> <span class="hz">你们是老师不吗?</span></div>
+<div class="key"><b>Key:</b> 1 → 他们<b>不是</b>学生。 · 2 → 你们是老师吗?(drop the stray 不).</div>
+<div class="fb">Drills only Day 1–2 grammar — today’s 的/什么/这那 are never error-targeted on intro day (EC-11).</div>
+</div>
+<div class="card home">
+<div class="exhead"><span class="code self">V05</span><span class="exname">Covered Prompt Recall</span><span class="extitle">“Recall today’s people-words”</span><span class="tp">T2</span><span class="tagk selfa">SELF</span></div>
+<div class="exbody">Cover and recall: <span class="hz">朋友 · 先生 · 女士 · 男 · 女 · 男朋友 · 认识</span>. Tomorrow’s taste — <span class="hz">很</span> <span class="py">hěn</span> “very” (taught Day 4).</div>
+<div class="rubric">“Done” = finished, not graded on accuracy (HW-4). The 很 taste primes one Day-4 item (HW-2).</div>
+</div>15:T11ca,<p class="lead">Ordered clip list; content-time fields fixed now, <span class="mono">status</span>/<span class="mono">asset_uri</span> at production. Word clips key to the Master index (<span class="mono">HSK1.W.{n}</span>); base tones in <span class="mono">pinyin_written</span>, sandhi in <span class="mono">spoken_realization</span>.</p>
+<div class="attach"><table class="manifest"><tr><th>id</th><th>type</th><th>hanzi</th><th>pinyin_written</th><th>spoken</th><th>voice</th><th>speed</th></tr><tr><td class="mono">HSK1.W.91</td><td>WORD</td><td class="cjk">叫</td><td>jiào</td><td>jiào</td><td>V-NARR</td><td>both</td></tr><tr><td class="mono">HSK1.W.131</td><td>WORD</td><td class="cjk">名字</td><td>míngzi</td><td>míngzi</td><td>V-NARR</td><td>both</td></tr><tr><td class="mono">HSK1.W.183</td><td>WORD</td><td class="cjk">什么</td><td>shénme</td><td>shénme</td><td>V-NARR</td><td>both</td></tr><tr><td class="mono">HSK1.W.30</td><td>WORD</td><td class="cjk">的</td><td>de</td><td>de</td><td>V-NARR</td><td>both</td></tr><tr><td class="mono">HSK1.W.280</td><td>WORD</td><td class="cjk">这</td><td>zhè</td><td>zhè</td><td>V-NARR</td><td>both</td></tr><tr><td class="mono">HSK1.W.137</td><td>WORD</td><td class="cjk">那</td><td>nà</td><td>nà</td><td>V-NARR</td><td>both</td></tr><tr><td class="mono">HSK1.W.172</td><td>WORD</td><td class="cjk">认识</td><td>rènshi</td><td>rènshi</td><td>V-NARR</td><td>both</td></tr><tr><td class="mono">HSK1.W.157</td><td>WORD</td><td class="cjk">朋友</td><td>péngyou</td><td>péngyou</td><td>V-NARR</td><td>both</td></tr><tr><td class="mono">HSK1.W.232</td><td>WORD</td><td class="cjk">先生</td><td>xiānsheng</td><td>xiānsheng</td><td>V-NARR</td><td>both</td></tr><tr><td class="mono">HSK1.W.156</td><td>WORD</td><td class="cjk">女士</td><td>nǚshì</td><td>nǚshì</td><td>V-NARR</td><td>both</td></tr><tr><td class="mono">HSK1.W.143</td><td>WORD</td><td class="cjk">男</td><td>nán</td><td>nán</td><td>V-NARR</td><td>both</td></tr><tr><td class="mono">HSK1.W.153</td><td>WORD</td><td class="cjk">女</td><td>nǚ</td><td>nǚ</td><td>V-NARR</td><td>both</td></tr><tr><td class="mono">HSK1.W.144</td><td>WORD</td><td class="cjk">男朋友</td><td>nánpéngyou</td><td>nánpéngyou</td><td>V-NARR</td><td>both</td></tr><tr><td class="mono">HSK1.D03.DLG.1.L1</td><td>DIALOGUE_LINE</td><td class="cjk">你好!你叫什么名字?</td><td>Nǐhǎo! Nǐ jiào shénme míngzi?</td><td>(as written)</td><td>V-F1</td><td>natural</td></tr><tr><td class="mono">HSK1.D03.DLG.1.L2</td><td>DIALOGUE_LINE</td><td class="cjk">我叫王红。这是我的朋友,他叫李明。</td><td>Wǒ jiào Wáng Hóng. Zhè shì wǒ de péngyou, tā jiào Lǐ Míng.</td><td>(as written)</td><td>V-M1</td><td>natural</td></tr><tr><td class="mono">HSK1.D03.DLG.1.L3</td><td>DIALOGUE_LINE</td><td class="cjk">认识你!他是先生吗?</td><td>Rènshi nǐ! Tā shì xiānsheng ma?</td><td>(as written)</td><td>V-F1</td><td>natural</td></tr><tr><td class="mono">HSK1.D03.DLG.1.L4</td><td>DIALOGUE_LINE</td><td class="cjk">他是学生。</td><td>Tā shì xuésheng.</td><td>(as written)</td><td>V-M1</td><td>natural</td></tr><tr><td class="mono">HSK1.D03.LC.01</td><td>COMPREHENSION</td><td class="cjk">这是我的朋友。</td><td>Zhè shì wǒ de péngyou.</td><td>Zhè shì wǒ de péngyou.</td><td>V-F1</td><td>slow</td></tr><tr><td class="mono">HSK1.D03.LC.02</td><td>COMPREHENSION</td><td class="cjk">那是先生。</td><td>Nà shì xiānsheng.</td><td>Nà shì xiānsheng.</td><td>V-M1</td><td>slow</td></tr><tr><td class="mono">HSK1.D03.DCT.01</td><td>DICTATION</td><td class="cjk">男</td><td>nán</td><td>nán</td><td>V-NARR</td><td>slow</td></tr><tr><td class="mono">HSK1.D03.DCT.02</td><td>DICTATION</td><td class="cjk">女</td><td>nǚ</td><td>nǚ</td><td>V-NARR</td><td>slow</td></tr><tr><td class="mono">HSK1.D03.DCT.03</td><td>DICTATION</td><td class="cjk">男朋友</td><td>nánpéngyou</td><td>nánpéngyou</td><td>V-NARR</td><td>slow</td></tr><tr><td class="mono">HSK1.D03.DCT.04</td><td>DICTATION</td><td class="cjk">女士</td><td>nǚshì</td><td>nǚshì</td><td>V-NARR</td><td>slow</td></tr></table><div style="font-size:11px;color:#8A8479;margin-top:8px">All rows: <span class="mono">status="planned"</span>, <span class="mono">asset_uri=null</span> at content phase. Every new word has a WORD clip; every listening item maps to exactly one clip id; every dialogue line is its own clip (A-04). No D3/4/5 new word carries sandhi, so spoken = written for all WORD clips (PS-1/6).</div></div>16:T1061,<div class="card"><table class="cov"><tr><th>word</th><th>T1 intro</th><th>T2 guided</th><th>T3 read/listen</th><th>T4 production</th><th>status</th></tr><tr><td class="cjk">叫 <span class="mono" style="color:var(--ink3)">W91</span></td><td><span class="mono">S2</span></td><td><span class="mono">4</span> · V01</td><td><span class="mono">5</span> · R01</td><td><span class="mono">10</span> · S04</td><td class="full">complete</td></tr><tr><td class="cjk">名字 <span class="mono" style="color:var(--ink3)">W131</span></td><td><span class="mono">S2</span></td><td><span class="mono">2</span> · G05</td><td><span class="mono">5</span> · R01</td><td><span class="mono">8</span> · W01</td><td class="full">complete</td></tr><tr><td class="cjk">什么 <span class="mono" style="color:var(--ink3)">W183</span></td><td><span class="mono">S2</span></td><td><span class="mono">4</span> · V01</td><td><span class="mono">5</span> · R01</td><td><span class="mono">11</span> · G01</td><td class="full">complete</td></tr><tr><td class="cjk">的 <span class="mono" style="color:var(--ink3)">W30</span></td><td><span class="mono">S2</span></td><td><span class="mono">2</span> · G05</td><td><span class="mono">5</span> · R01</td><td><span class="mono">9</span> · W04</td><td class="full">complete</td></tr><tr><td class="cjk">这 <span class="mono" style="color:var(--ink3)">W280</span></td><td><span class="mono">S2</span></td><td><span class="mono">2</span> · G05</td><td><span class="mono">5</span> · R01</td><td><span class="mono">9</span> · W04</td><td class="full">complete</td></tr><tr><td class="cjk">那 <span class="mono" style="color:var(--ink3)">W137</span></td><td><span class="mono">S2</span></td><td><span class="mono">3</span> · G06</td><td><span class="mono">6</span> · L01</td><td><span class="mono">9</span> · W04</td><td class="full">complete</td></tr><tr><td class="cjk">认识 <span class="mono" style="color:var(--ink3)">W172</span></td><td><span class="mono">S2</span></td><td><span class="mono">4</span> · V01</td><td><span class="mono">5</span> · R01</td><td><span class="mono">10</span> · S04</td><td class="full">complete</td></tr><tr><td class="cjk">朋友 <span class="mono" style="color:var(--ink3)">W157</span></td><td><span class="mono">S2</span></td><td><span class="mono">2</span> · G05</td><td><span class="mono">5</span> · R01</td><td><span class="mono">8</span> · W01</td><td class="full">complete</td></tr><tr><td class="cjk">先生 <span class="mono" style="color:var(--ink3)">W232</span></td><td><span class="mono">S2</span></td><td><span class="mono">3</span> · G06</td><td><span class="mono">5</span> · R01</td><td><span class="mono">9</span> · W04</td><td class="full">complete</td></tr><tr><td class="cjk">女士 <span class="mono" style="color:var(--ink3)">W156</span></td><td><span class="mono">S2</span></td><td><span class="mono">3</span> · G06</td><td><span class="mono">7</span> · L03</td><td><span class="mono">9</span> · W04</td><td class="full">complete</td></tr><tr><td class="cjk">男 <span class="mono" style="color:var(--ink3)">W143</span></td><td><span class="mono">S2</span></td><td><span class="mono">4</span> · V01</td><td><span class="mono">7</span> · L03</td><td><span class="mono">8</span> · W01</td><td class="full">complete</td></tr><tr><td class="cjk">女 <span class="mono" style="color:var(--ink3)">W153</span></td><td><span class="mono">S2</span></td><td><span class="mono">4</span> · V01</td><td><span class="mono">7</span> · L03</td><td><span class="mono">8</span> · W01</td><td class="full">complete</td></tr><tr><td class="cjk">男朋友 <span class="mono" style="color:var(--ink3)">W144</span></td><td><span class="mono">S2</span></td><td><span class="mono">3</span> · G06</td><td><span class="mono">7</span> · L03</td><td><span class="mono">10</span> · S04</td><td class="full">complete</td></tr></table><div class="fb" style="margin-top:6px">Numbers are the exercise <span class="mono">order</span> that credits each touchpoint; each credit is matrix-legal (CV-5) and the word is present in the cited item (CV-2 / TC-03). All four slots filled for every new word (CV-1 / TC-02).</div></div>17:T2a41,<div class="attach"><pre style="margin:0;white-space:pre-wrap;font-family:var(--mono);font-size:11px;line-height:1.5;color:#2A2A2A">{
+  "lesson_id": "HSK1.D03.v2",
+  "day": 3,
+  "world": 1,
+  "node": "NODE_1_3",
+  "schema": "System_v2 · Attachment B (+ D8 coverage_ledger, +D9 battery)",
+  "objective": {
+    "can_do": "Ask and give names, use 的 and 这/那, and introduce people.",
+    "sub_skills": [
+      "ask 你叫什么名字? and answer with 我叫…",
+      "link words with 的 (我的朋友)",
+      "point with 这是… / 那是…",
+      "tell 先生 / 女士 / 男 / 女 apart"
+    ]
+  },
+  "new_vocab": [
+    91,
+    131,
+    183,
+    30,
+    280,
+    137,
+    172,
+    157,
+    232,
+    156,
+    143,
+    153,
+    144
+  ],
+  "new_grammar": [
+    "G6",
+    "G7",
+    "G9"
+  ],
+  "grammar_review": [
+    "G4",
+    "G5"
+  ],
+  "exercise_ledger": [
+    {
+      "order": 1,
+      "code": "V05",
+      "framework_id": "covered_prompt_recall",
+      "category": "V",
+      "keyed": false
+    },
+    {
+      "order": 2,
+      "code": "G05",
+      "framework_id": "question_transform_ma",
+      "category": "G",
+      "keyed": true
+    },
+    {
+      "order": 3,
+      "code": "G06",
+      "framework_id": "element_substitution",
+      "category": "G",
+      "keyed": true
+    },
+    {
+      "order": 4,
+      "code": "V01",
+      "framework_id": "matching",
+      "category": "V",
+      "keyed": true
+    },
+    {
+      "order": 5,
+      "code": "R01",
+      "framework_id": "dialogue_comprehension",
+      "category": "R",
+      "keyed": true
+    },
+    {
+      "order": 6,
+      "code": "L01",
+      "framework_id": "comprehension_mcq",
+      "category": "L",
+      "keyed": true
+    },
+    {
+      "order": 7,
+      "code": "L03",
+      "framework_id": "dictation",
+      "category": "L",
+      "keyed": true
+    },
+    {
+      "order": 8,
+      "code": "W01",
+      "framework_id": "character_tracing",
+      "category": "W",
+      "keyed": false
+    },
+    {
+      "order": 9,
+      "code": "W04",
+      "framework_id": "guided_copying",
+      "category": "W",
+      "keyed": false
+    },
+    {
+      "order": 10,
+      "code": "S04",
+      "framework_id": "cued_spoken_response",
+      "category": "S",
+      "keyed": true
+    },
+    {
+      "order": 11,
+      "code": "G01",
+      "framework_id": "word_order_build",
+      "category": "G",
+      "keyed": true,
+      "stage": "workbook"
+    },
+    {
+      "order": 12,
+      "code": "G12",
+      "framework_id": "grammar_error_correction",
+      "category": "G",
+      "keyed": true,
+      "stage": "homework"
+    },
+    {
+      "order": 13,
+      "code": "V05",
+      "framework_id": "covered_prompt_recall",
+      "category": "V",
+      "keyed": false,
+      "stage": "homework"
+    }
+  ],
+  "coverage_ledger": [
+    {
+      "word_id": "HSK1.W.91",
+      "hanzi": "叫",
+      "T1_introduction": "section_2",
+      "T2_guided": {
+        "order": 4,
+        "code": "V01"
+      },
+      "T3_input": {
+        "order": 5,
+        "code": "R01"
+      },
+      "T4_production": {
+        "order": 10,
+        "code": "S04"
+      },
+      "status": "complete"
+    },
+    {
+      "word_id": "HSK1.W.131",
+      "hanzi": "名字",
+      "T1_introduction": "section_2",
+      "T2_guided": {
+        "order": 2,
+        "code": "G05"
+      },
+      "T3_input": {
+        "order": 5,
+        "code": "R01"
+      },
+      "T4_production": {
+        "order": 8,
+        "code": "W01"
+      },
+      "status": "complete"
+    },
+    {
+      "word_id": "HSK1.W.183",
+      "hanzi": "什么",
+      "T1_introduction": "section_2",
+      "T2_guided": {
+        "order": 4,
+        "code": "V01"
+      },
+      "T3_input": {
+        "order": 5,
+        "code": "R01"
+      },
+      "T4_production": {
+        "order": 11,
+        "code": "G01"
+      },
+      "status": "complete"
+    },
+    {
+      "word_id": "HSK1.W.30",
+      "hanzi": "的",
+      "T1_introduction": "section_2",
+      "T2_guided": {
+        "order": 2,
+        "code": "G05"
+      },
+      "T3_input": {
+        "order": 5,
+        "code": "R01"
+      },
+      "T4_production": {
+        "order": 9,
+        "code": "W04"
+      },
+      "status": "complete"
+    },
+    {
+      "word_id": "HSK1.W.280",
+      "hanzi": "这",
+      "T1_introduction": "section_2",
+      "T2_guided": {
+        "order": 2,
+        "code": "G05"
+      },
+      "T3_input": {
+        "order": 5,
+        "code": "R01"
+      },
+      "T4_production": {
+        "order": 9,
+        "code": "W04"
+      },
+      "status": "complete"
+    },
+    {
+      "word_id": "HSK1.W.137",
+      "hanzi": "那",
+      "T1_introduction": "section_2",
+      "T2_guided": {
+        "order": 3,
+        "code": "G06"
+      },
+      "T3_input": {
+        "order": 6,
+        "code": "L01"
+      },
+      "T4_production": {
+        "order": 9,
+        "code": "W04"
+      },
+      "status": "complete"
+    },
+    {
+      "word_id": "HSK1.W.172",
+      "hanzi": "认识",
+      "T1_introduction": "section_2",
+      "T2_guided": {
+        "order": 4,
+        "code": "V01"
+      },
+      "T3_input": {
+        "order": 5,
+        "code": "R01"
+      },
+      "T4_production": {
+        "order": 10,
+        "code": "S04"
+      },
+      "status": "complete"
+    },
+    {
+      "word_id": "HSK1.W.157",
+      "hanzi": "朋友",
+      "T1_introduction": "section_2",
+      "T2_guided": {
+        "order": 2,
+        "code": "G05"
+      },
+      "T3_input": {
+        "order": 5,
+        "code": "R01"
+      },
+      "T4_production": {
+        "order": 8,
+        "code": "W01"
+      },
+      "status": "complete"
+    },
+    {
+      "word_id": "HSK1.W.232",
+      "hanzi": "先生",
+      "T1_introduction": "section_2",
+      "T2_guided": {
+        "order": 3,
+        "code": "G06"
+      },
+      "T3_input": {
+        "order": 5,
+        "code": "R01"
+      },
+      "T4_production": {
+        "order": 9,
+        "code": "W04"
+      },
+      "status": "complete"
+    },
+    {
+      "word_id": "HSK1.W.156",
+      "hanzi": "女士",
+      "T1_introduction": "section_2",
+      "T2_guided": {
+        "order": 3,
+        "code": "G06"
+      },
+      "T3_input": {
+        "order": 7,
+        "code": "L03"
+      },
+      "T4_production": {
+        "order": 9,
+        "code": "W04"
+      },
+      "status": "complete"
+    },
+    {
+      "word_id": "HSK1.W.143",
+      "hanzi": "男",
+      "T1_introduction": "section_2",
+      "T2_guided": {
+        "order": 4,
+        "code": "V01"
+      },
+      "T3_input": {
+        "order": 7,
+        "code": "L03"
+      },
+      "T4_production": {
+        "order": 8,
+        "code": "W01"
+      },
+      "status": "complete"
+    },
+    {
+      "word_id": "HSK1.W.153",
+      "hanzi": "女",
+      "T1_introduction": "section_2",
+      "T2_guided": {
+        "order": 4,
+        "code": "V01"
+      },
+      "T3_input": {
+        "order": 7,
+        "code": "L03"
+      },
+      "T4_production": {
+        "order": 8,
+        "code": "W01"
+      },
+      "status": "complete"
+    },
+    {
+      "word_id": "HSK1.W.144",
+      "hanzi": "男朋友",
+      "T1_introduction": "section_2",
+      "T2_guided": {
+        "order": 3,
+        "code": "G06"
+      },
+      "T3_input": {
+        "order": 7,
+        "code": "L03"
+      },
+      "T4_production": {
+        "order": 10,
+        "code": "S04"
+      },
+      "status": "complete"
+    }
+  ],
+  "battery": {
+    "pattern_id": "C",
+    "pattern_name": "Grammar Spine",
+    "profile_match": "grammar-dense (13 new / 3 grammar)",
+    "signature": "V05|G05·G06·V01·R01·L01·L03·W01·W04·S04|G01|G12·V05",
+    "retrieval_spine": [
+      "TRANSFORM",
+      "TRANSFORM",
+      "RECOGNIZE",
+      "DECODE",
+      "DECODE",
+      "DECODE",
+      "FORM",
+      "FORM",
+      "RECALL",
+      "CONSTRUCT",
+      "TRANSFORM",
+      "RECALL"
+    ],
+    "prev_day": 2,
+    "prev_pattern_id": "A",
+    "prev_signature": "V05|V01·V03·G10·G11·R01·R03·L01·L04·W01·W04·S01·S04·G01·G12·X02|V05·G11",
+    "anti_monotony": {
+      "AM-1_similarity_vs_prev": 0.56,
+      "AM-1_threshold": 0.6,
+      "AM-2_first_practice_framework": "G05"
+    },
+    "exceptions": [
+      "R3/R4 (BV-03): C–D–C across Days 3–5 is profile-forced — every day here is grammar-dense (only Patterns C and D fit); Patterns A and B legitimately absent. Window Days 2–5 = {A,C,D} satisfies R2 (≥3 distinct in any 4-day window). Registered to suppress a false BV-06/BV-09 flag."
+    ]
+  },
+  "xp_triggers": [
+    {
+      "event": "stage_complete",
+      "xp": 25,
+      "max": 4
+    },
+    {
+      "event": "day_cleared",
+      "xp": 100
+    },
+    {
+      "event": "warmup_review_done",
+      "xp": 15
+    },
+    {
+      "event": "streak_day",
+      "xp": 10
+    },
+    {
+      "event": "first_try_correct",
+      "xp": 2,
+      "scope": "keyed_items"
+    }
+  ],
+  "achievement_conditions": [
+    {
+      "id": "warm_start",
+      "when": "warmup_review_done before first new-vocab item",
+      "xp": 15
+    },
+    {
+      "id": "flawless_day",
+      "when": "0 errors across keyed items",
+      "xp": 20
+    },
+    {
+      "id": "no_hint",
+      "when": "day cleared with 0 hint reveals",
+      "xp": 10
+    },
+    {
+      "id": "homework_hero",
+      "when": "mini-homework completed",
+      "xp": 20
+    }
+  ],
+  "mastery_transitions": {
+    "vocab": {
+      "states": [
+        "new",
+        "seen",
+        "practiced",
+        "produced",
+        "mastered"
+      ],
+      "on_intro": "new→seen",
+      "on_T2": "seen→practiced",
+      "on_T3": "practiced (reinforced)",
+      "on_T4": "practiced→produced",
+      "on_SR_plus7_pass": "produced→mastered"
+    },
+    "grammar": {
+      "states": [
+        "introduced",
+        "applied",
+        "independent",
+        "mastered"
+      ],
+      "on_intro": "→introduced",
+      "on_guided_use": "introduced→applied",
+      "on_construct": "applied→independent"
+    }
+  },
+  "sr_queue": {
+    "introduced": [
+      91,
+      131,
+      183,
+      30,
+      280,
+      137,
+      172,
+      157,
+      232,
+      156,
+      143,
+      153,
+      144
+    ],
+    "grammar_introduced": [
+      "G6",
+      "G7",
+      "G9"
+    ],
+    "review_due_today": [
+      "batch_D2"
+    ],
+    "grammar_review_due_today": [
+      "G4",
+      "G5"
+    ],
+    "schedule": "+1 / +3 / +7 days (RV-1)"
+  },
+  "audio_manifest_ref": "Attachment A · 23 clips",
+  "gate_day": false,
+  "checkpoint_day": false
+}</pre></div>
+<div class="footer">HSK 1 Journey · governance-first build · generated against System v2 + Touchpoint Coverage (D8) + Battery Variation (D9). Validator v1.1 gate: 0 Blockers / 0 Majors. Audio manifest decoupled (manifest-as-seam); clips status=planned. Pinyin stored base-tone; sandhi spoken-only. This is a content artifact — reward logic and SR scheduling live in Attachment B.</div>2:["$","$Ld",null,{"day":{"day":3,"slug":"day-03","titleEn":"Names, 的, and 这/那 — introducing people","eyebrowEn":"HSK 1 Journey · HSK 3.0 (2026)","subtitleEn":"Ask and give names, use 的 and 这/那, and introduce people.","canDoEn":"Ask and give names, use 的 and 这/那, and introduce people.","chipsEn":["HSK 1 · Day 03 (v2)","World 1 · NODE_1_3","Pattern C","13 new words · 3 grammar","13 exercises"],"dialect":"v2","sections":[{"number":0,"titleEn":"Warm-up review","kind":"review","stage":"learn","stageLabelEn":"Stage 1 · Learn — spaced repetition","html":"<p class=\"lead\">Recognition before recall. Warm-up = the SR schedule for today (batch_D2); grammar review: G4, G5.</p>\n<div class=\"card learn\">\n<div class=\"exhead\"><span class=\"code self\">V05</span><span class=\"exname\">Covered Prompt Recall</span><span class=\"extitle\">“Remember from yesterday”</span><span class=\"tp\">T2</span><span class=\"tagk selfa\">SELF</span></div>\n<div class=\"exbody\">Batch <b>D2</b> — cover the meaning and recall pinyin + sense: <span class=\"hz\">不客气 大家 们 呢 你们 他们 她们 谢谢 再见 对不起 没关系 没事</span>. Reminder: 大家 is already plural — never add 们.</div>\n<div class=\"rubric\">✓ instant · ~ slow but right · ✗ missed → re-queues. No score; feeds your mastery states.</div>\n</div>","exerciseIds":["D03-S0-E1"],"titleRu":"Разминка и повторение","stageRu":"Этап 1 · Изучение"},{"number":1,"titleEn":"Learning objective","kind":"objective","stage":"learn","stageLabelEn":"Stage 1 · Learn","html":"<div class=\"card learn\"><p style=\"margin:0 0 6px;font-size:15px\"><b>Can-do:</b> Ask and give names, use 的 and 这/那, and introduce people.</p><div class=\"exbody\">Sub-skills:<ul style=\"margin:5px 0 0;padding-left:18px\"><li>ask 你叫什么名字? and answer with 我叫…</li><li>link words with 的 (我的朋友)</li><li>point with 这是… / 那是…</li><li>tell 先生 / 女士 / 男 / 女 apart</li></ul></div></div>","titleRu":"Цель урока","stageRu":"Этап 1 · Изучение"},{"number":2,"titleEn":"New vocabulary","kind":"vocabulary","stage":"learn","stageLabelEn":"Stage 1 · Learn — clusters ≤5","html":"$e","vocabularyIds":["W91","W131","W183","W30","W280","W137","W172","W157","W232","W156","W143","W153","W144"],"clusters":[],"titleRu":"Новые слова","stageRu":"Этап 1 · Изучение"},{"number":3,"titleEn":"Grammar focus","kind":"grammar","stage":"learn","stageLabelEn":"Stage 1 · Learn — ≤3 points","html":"$f","grammarIds":["G6","G7","G9"],"titleRu":"Грамматика","stageRu":"Этап 1 · Изучение"},{"number":4,"titleEn":"Teaching + pronunciation","kind":"teaching","stage":"learn","stageLabelEn":"Stage 1 · Learn — 1 track item","html":"<div class=\"card learn\"><b>Pronunciation focus (PR track · today’s one item): 不 sandhi.</b><div class=\"exbody\"><span class=\"hz\">不</span> is written <span class=\"py\">bù</span> (4th tone) everywhere — but before another <b>4th tone</b> it is <i>said</i> as a rising 2nd tone, <span class=\"py\">bú</span>.<div class=\"grule\" style=\"margin-top:6px\"><span class=\"py\">written</span> <b>bù shì</b>  →  <span class=\"py\">said</span> <b>bú shì</b>  (<span class=\"hz\">不是</span>)  ·  <span class=\"hz\">不认识</span> → <span class=\"py\">bú rènshi</span></div>We always <b>write</b> base <span class=\"py\">bù</span> and only <b>say</b> the change — the same idea as yesterday’s 3rd+3rd rule.</div><div class=\"note\" style=\"margin-top:8px\"><b>Same rule, previewed for 一:</b> the number 一 shifts the same way once you meet it (Day 7). Notice the principle now; nothing to drill today.</div></div>","titleRu":"Объяснение","stageRu":"Этап 1 · Изучение"},{"number":5,"titleEn":"Guided practice","kind":"practice","stage":"practice","stageLabelEn":"Stage 2 · Practice — receptive → productive","html":"$10","exerciseIds":["D03-S5-E1","D03-S5-E2","D03-S5-E3"],"titleRu":"Практика","stageRu":"Этап 2 · Практика"},{"number":6,"titleEn":"Reading practice","kind":"reading","stage":"practice","stageLabelEn":"Stage 2 · Practice","html":"$11","exerciseIds":["D03-S6-E1"],"titleRu":"Чтение","stageRu":"Этап 2 · Практика"},{"number":7,"titleEn":"Listening practice","kind":"listening","stage":"practice","stageLabelEn":"Stage 2 · Practice — audio-only ✓","html":"$12","exerciseIds":["D03-S7-E1","D03-S7-E2"],"titleRu":"Аудирование","stageRu":"Этап 2 · Практика"},{"number":8,"titleEn":"Writing practice","kind":"writing","stage":"practice","stageLabelEn":"Stage 2 · Practice","html":"$13","exerciseIds":["D03-S8-E1","D03-S8-E2"],"titleRu":"Письмо","stageRu":"Этап 2 · Практика"},{"number":9,"titleEn":"Speaking practice","kind":"speaking","stage":"practice","stageLabelEn":"Stage 2 · Practice","html":"<p class=\"lead\">Spoken output (touchpoint <b>T4</b>).</p>\n<div class=\"card prac\">\n<div class=\"exhead\"><span class=\"code\">S04</span><span class=\"exname\">Cued Spoken Response</span><span class=\"extitle\">“Say the right thing”</span><span class=\"tp\">T4</span><span class=\"tagk keyed\">KEYED</span></div>\n<div class=\"exbody\">Say the right line aloud. <b>1</b> Tell someone your name.   <b>2</b> Introduce your boyfriend.   <b>3</b> You’ve just met someone.</div>\n<div class=\"key\"><b>Accepted:</b> 1 → 我叫…(name)。 · 2 → 这是我的男朋友。 · 3 → 认识你!</div>\n<div class=\"fb\">✓ on 2 → “you linked 我 + 的 + 男朋友 correctly.”</div>\n</div>","exerciseIds":["D03-S9-E1"],"titleRu":"Говорение","stageRu":"Этап 2 · Практика"},{"number":10,"titleEn":"Workbook challenge","kind":"workbook","stage":"workbook","stageLabelEn":"Stage 3 · Workbook — deeper reinforcement","html":"<p class=\"lead\">Harder than guided practice; error-correction targets only prior-day patterns (EC-11).</p>\n<div class=\"card work\">\n<div class=\"exhead\"><span class=\"code\">G01</span><span class=\"exname\">Word Order Build</span><span class=\"extitle\">“Sentence scramble”</span><span class=\"tp\">T4</span><span class=\"tagk keyed\">KEYED</span></div>\n<div class=\"exbody\">Arrange the tokens into one correct sentence. <b>1</b> [ 什么 / 你 / 名字 / 叫 ]   <b>2</b> [ 的 / 这 / 朋友 / 我 / 是 ]</div>\n<div class=\"key\"><b>Key:</b> 1 → 你叫什么名字?   2 → 这是我的朋友。</div>\n<div class=\"fb\">✗ → question word 什么 sits where the answer goes; 的 links 我 + 朋友.</div>\n</div>","exerciseIds":["D03-S10-E1"],"titleRu":"Рабочая тетрадь","stageRu":"Этап 3 · Рабочая тетрадь"},{"number":11,"titleEn":"Mini homework","kind":"homework","stage":"homework","stageLabelEn":"Stage 4 · Bridge — 5–10 min","html":"$14","exerciseIds":["D03-S11-E1","D03-S11-E2"],"titleRu":"Мини-домашка","stageRu":"Этап 4 · Домашка"},{"number":12,"titleEn":"Review / closing recap","kind":"content","stage":"learn","stageLabelEn":"Stage 1 · Spaced repetition","html":"<div class=\"card learn\"><div class=\"exbody\">Today you added <b>你叫什么名字?</b> / <b>我叫…</b>, the linking particle <b>的</b> (我的朋友), pointing with <b>这是… / 那是…</b>, and the people-words 朋友 / 先生 / 女士 / 男 / 女 / 男朋友 / 认识. Pronunciation: <b>不 sandhi</b> (不是 → bú shì). All thirteen new words enter the +1 / +3 / +7 review queue.</div></div>","titleRu":"Материал","stageRu":"Этап 1 · Изучение"},{"number":13,"titleEn":"Success criteria","kind":"criteria","stage":"other","stageLabelEn":"Clear gate","html":"<div class=\"card learn\"><div class=\"exbody\">You’ve cleared Day 3 when, in one sitting, you can:<ul style=\"margin:5px 0 0;padding-left:18px\"><li>ask and answer 你叫什么名字? / 我叫…;</li><li>link two nouns with 的 (我的朋友);</li><li>point with 这是… and 那是…;</li><li>tell 先生 / 女士 / 男 / 女 apart by meaning;</li></ul>Fair and non-punitive: slips re-queue for review.</div></div>","titleRu":"Критерии успеха","stageRu":"Раздел"},{"number":14,"titleEn":"Estimated time","kind":"content","stage":"meta","stageLabelEn":"Meta — range","html":"<div class=\"card\"><div class=\"exbody\">Core lesson <b>25–35 min</b> (early-course). Mini homework <b>5–10 min</b>. Total ≈ 30–45 min.</div></div>","titleRu":"Материал","stageRu":"Служебное"},{"number":null,"titleEn":"Reward preview","kind":"content","stage":"other","stageLabelEn":"labelled preview · logic lives in Attachment B","html":"<div class=\"card\"><div class=\"preview\">Preview only — not the scoring engine (LC-11)</div><div class=\"xp\" style=\"margin-top:6px\"><span class=\"x\">4× stage_complete = 100 XP</span><span class=\"x\">day_cleared +100</span><span class=\"x\">warmup_review +15</span><span class=\"x\">streak_day +10</span><span class=\"x\">Warm Start +15</span><span class=\"x\">Flawless +20</span><span class=\"x\">No-Hint +10</span><span class=\"x\">Homework Hero +20</span></div><div class=\"fb\" style=\"margin-top:6px\">Day 3 is a teaching node, not a gate — no mini-boss/boss/summit payout (P-04). Values are Journey-System defaults (tunable).</div></div>","titleRu":"Материал","stageRu":"Раздел"},{"number":null,"titleEn":"Battery pattern","kind":"content","stage":"other","stageLabelEn":"D9 · Battery Variation System","html":"<div class=\"card\"><div class=\"exbody\"><b>Pattern C</b> — Grammar Spine (transform-led). Profile fit: grammar-dense (13 new / 3 grammar).</div><div class=\"spine\"><span class=\"st\">TRANSFORM</span><span class=\"st\">TRANSFORM</span><span class=\"st\">RECOGNIZE</span><span class=\"st\">DECODE</span><span class=\"st\">DECODE</span><span class=\"st\">DECODE</span><span class=\"st\">FORM</span><span class=\"st\">FORM</span><span class=\"st\">RECALL</span><span class=\"st\">CONSTRUCT</span><span class=\"st\">TRANSFORM</span><span class=\"st\">RECALL</span></div><div class=\"fb\" style=\"margin-top:6px\">Signature: <span class=\"mono\">V05|G05·G06·V01·R01·L01·L03·W01·W04·S04|G01|G12·V05</span> · prev (Day 2, Pattern A) similarity within ≤0.60 (AM-1); first practice framework differs (AM-2).</div></div>","titleRu":"Материал","stageRu":"Раздел"},{"number":null,"titleEn":"Attachment A · Audio manifest","kind":"manifest","stage":"other","stageLabelEn":"mandatory — LN-2","html":"$15","titleRu":"Служебные данные","stageRu":"Раздел"},{"number":null,"titleEn":"Touchpoint coverage","kind":"content","stage":"other","stageLabelEn":"D8 · one row per new word","html":"$16","titleRu":"Материал","stageRu":"Раздел"},{"number":null,"titleEn":"Attachment B · Data contract","kind":"manifest","stage":"meta","stageLabelEn":"machine-readable — incl. coverage_ledger + battery","html":"$17","titleRu":"Служебные данные","stageRu":"Служебное"}],"vocabulary":[{"wordId":"W91","hanzi":"叫","pinyin":"jiào","meaningEn":"to be called; to call","meaningRu":"называться; звать"},{"wordId":"W131","hanzi":"名字","pinyin":"míngzi","meaningEn":"name","meaningRu":"имя"},{"wordId":"W183","hanzi":"什么","pinyin":"shénme","meaningEn":"what","meaningRu":"что"},{"wordId":"W30","hanzi":"的","pinyin":"de","meaningEn":"(possessive / attributive particle)","meaningRu":"(частица принадлежности / определения)"},{"wordId":"W280","hanzi":"这","pinyin":"zhè","meaningEn":"this","meaningRu":"этот"},{"wordId":"W137","hanzi":"那","pinyin":"nà","meaningEn":"that; in that case","meaningRu":"тот; в таком случае"},{"wordId":"W172","hanzi":"认识","pinyin":"rènshi","meaningEn":"to know (be acquainted)","meaningRu":"быть знакомым, знать (кого-то)"},{"wordId":"W157","hanzi":"朋友","pinyin":"péngyou","meaningEn":"friend","meaningRu":"друг"},{"wordId":"W232","hanzi":"先生","pinyin":"xiānsheng","meaningEn":"Mr.; sir; husband","meaningRu":"господин; муж"},{"wordId":"W156","hanzi":"女士","pinyin":"nǚshì","meaningEn":"lady; Ms.","meaningRu":"госпожа; г-жа"},{"wordId":"W143","hanzi":"男","pinyin":"nán","meaningEn":"male, man","meaningRu":"мужской, мужчина"},{"wordId":"W153","hanzi":"女","pinyin":"nǚ","meaningEn":"female, woman","meaningRu":"женский, женщина"},{"wordId":"W144","hanzi":"男朋友","pinyin":"nánpéngyou","meaningEn":"boyfriend","meaningRu":"парень (молодой человек)"}],"grammar":[{"grammarId":"G6","titleEn":"Possessive & attributive 的","pattern":"","explanationEn":"Link an owner (or modifier) to a noun with 的: X 的 Y . 这是我的朋友。 Zhè shì wǒ de péngyou. — This is my friend. 那是你的名字吗? Nà shì nǐ de míngzi ma? — Is that your name?","examples":[{"hanzi":"这是我的朋友。","pinyin":"Zhè shì wǒ de péngyou.","glossEn":"This is my friend.","usable":true,"glossRu":"Это мой друг."},{"hanzi":"那是你的名字吗?","pinyin":"Nà shì nǐ de míngzi ma?","glossEn":"Is that your name?","usable":true,"glossRu":"Это твоё имя?"}],"note":"","titleRu":"Притяжательная и определительная частица 的","explanationRu":"的 связывает определение с существительным: чей + предмет, какой + предмет."},{"grammarId":"G7","titleEn":"Asking “what” with 什么","pattern":"","explanationEn":"Put 什么 where the answer will go; the word order does not change. 你叫什么名字? Nǐ jiào shénme míngzi? — What is your name? 这是什么? Zhè shì shénme? — What is this?","examples":[{"hanzi":"你叫什么名字?","pinyin":"Nǐ jiào shénme míngzi?","glossEn":"What is your name?","usable":true,"glossRu":"Как тебя зовут?"},{"hanzi":"这是什么?","pinyin":"Zhè shì shénme?","glossEn":"What is this?","usable":true,"glossRu":"Что это?"}],"note":"","titleRu":"Вопрос «что» с 什么","explanationRu":"Поставьте 什么 туда, где стоит ответ; порядок слов не меняется."},{"grammarId":"G9","titleEn":"Demonstratives 这/那 + 是","pattern":"","explanationEn":"Point things out with 这是… (this is…) and 那是… (that is…). 这是我的男朋友。 Zhè shì wǒ de nánpéngyou. — This is my boyfriend. 那是女士。 Nà shì nǚshì. — That is a lady.","examples":[{"hanzi":"这是我的男朋友。","pinyin":"Zhè shì wǒ de nánpéngyou.","glossEn":"This is my boyfriend.","usable":true,"glossRu":"Это мой парень."},{"hanzi":"那是女士。","pinyin":"Nà shì nǚshì.","glossEn":"That is a lady.","usable":true,"glossRu":"Вон та — госпожа."}],"note":"","titleRu":"Указательные 这/那 + 是","explanationRu":"Указать на предмет: 这是… «это …», 那是… «то …»."}],"exercises":[{"id":"D03-S0-E1","code":"V05","family":"vocabulary","nameEn":"Covered Prompt Recall","titleEn":"Remember from yesterday","mode":"SELF","bodyHtml":"Batch <b>D2</b> — cover the meaning and recall pinyin + sense: <span class=\"hz\">不客气 大家 们 呢 你们 他们 她们 谢谢 再见 对不起 没关系 没事</span>. Reminder: 大家 is already plural — never add 们.","bodyText":"Batch D2 — cover the meaning and recall pinyin + sense: 不客气 大家 们 呢 你们 他们 她们 谢谢 再见 对不起 没关系 没事 . Reminder: 大家 is already plural — never add 们.","keyHtml":"","keyText":"","feedbackEn":"","rubricEn":"✓ instant · ~ slow but right · ✗ missed → re-queues. No score; feeds your mastery states.","sourceDay":3,"sourceSection":0,"familyRu":"Лексика","generated":false},{"id":"D03-S5-E1","code":"G05","family":"grammar","nameEn":"Question Transform Ma","titleEn":"Make it a question (吗)","mode":"KEYED","bodyHtml":"Turn each statement into a yes/no question by adding 吗. <b>1</b> <span class=\"hz\">这是我的朋友。</span>   <b>2</b> <span class=\"hz\">那是你的名字。</span>","bodyText":"Turn each statement into a yes/no question by adding 吗. 1 这是我的朋友。 2 那是你的名字。","keyHtml":"<b>Key:</b> 1 → <span class=\"hz\">这是我的朋友吗?</span>   2 → <span class=\"hz\">那是你的名字吗?</span>","keyText":"Key: 1 → 这是我的朋友吗? 2 → 那是你的名字吗?","feedbackEn":"✗ → nothing moves except 吗 at the very end (G3, Day 1).","rubricEn":"","sourceDay":3,"sourceSection":5,"familyRu":"Грамматика","generated":false},{"id":"D03-S5-E2","code":"G06","family":"grammar","nameEn":"Element Substitution","titleEn":"Swap this/that & the person","mode":"KEYED","bodyHtml":"Rewrite, swapping <span class=\"hz\">这</span>↔<span class=\"hz\">那</span> and changing the person. <b>1</b> <span class=\"hz\">这是先生。</span> → (that / 女士)   <b>2</b> <span class=\"hz\">那是男朋友。</span> → (this / 先生)","bodyText":"Rewrite, swapping 这 ↔ 那 and changing the person. 1 这是先生。 → (that / 女士) 2 那是男朋友。 → (this / 先生)","keyHtml":"<b>Key:</b> 1 → <span class=\"hz\">那是女士。</span>   2 → <span class=\"hz\">这是先生。</span>","keyText":"Key: 1 → 那是女士。 2 → 这是先生。","feedbackEn":"✗ → swap only the demonstrative and the noun; 是 and order stay put (G9).","rubricEn":"","sourceDay":3,"sourceSection":5,"familyRu":"Грамматика","generated":false},{"id":"D03-S5-E3","code":"V01","family":"vocabulary","nameEn":"Matching","titleEn":"Match the meaning","mode":"KEYED","bodyHtml":"Pair each word with its meaning. <b>1</b> 什么 · <b>2</b> 名字 · <b>3</b> 叫 · <b>4</b> 认识 · <b>5</b> 朋友 · <b>6</b> 先生 · <b>7</b> 女士 · <b>8</b> 男 · <b>9</b> 女 · <b>10</b> 男朋友  ↔  (a) name (b) friend (c) what (d) to be called (e) to know / be acquainted (f) lady, Ms. (g) Mr., sir (h) male (i) female (j) boyfriend","bodyText":"Pair each word with its meaning. 1 什么 · 2 名字 · 3 叫 · 4 认识 · 5 朋友 · 6 先生 · 7 女士 · 8 男 · 9 女 · 10 男朋友 ↔ (a) name (b) friend (c) what (d) to be called (e) to know / be acquainted (f) lady, Ms. (g) Mr., sir (h) male (i) female (j) boyfriend","keyHtml":"<b>Key:</b> 1-c · 2-a · 3-d · 4-e · 5-b · 6-g · 7-f · 8-h · 9-i · 10-j.","keyText":"Key: 1-c · 2-a · 3-d · 4-e · 5-b · 6-g · 7-f · 8-h · 9-i · 10-j.","feedbackEn":"✗ on 男/女 → 男 has 田 (field) on top; 女 is the standalone ‘woman’ radical.","rubricEn":"","sourceDay":3,"sourceSection":5,"familyRu":"Лексика","generated":false},{"id":"D03-S6-E1","code":"R01","family":"reading","nameEn":"Dialogue Comprehension","titleEn":"Two friends meet","mode":"KEYED","bodyHtml":"Read, then answer.<div class=\"grule\" style=\"margin-top:6px\"><div class=\"ex\"><b>A:</b> <span class=\"hz\">你好!你叫什么名字?</span> <span class=\"py\">Nǐhǎo! Nǐ jiào shénme míngzi?</span></div><div class=\"ex\"><b>B:</b> <span class=\"hz\">我叫王红。这是我的朋友,他叫李明。</span> <span class=\"py\">Wǒ jiào Wáng Hóng. Zhè shì wǒ de péngyou, tā jiào Lǐ Míng.</span></div><div class=\"ex\"><b>A:</b> <span class=\"hz\">认识你!他是先生吗?</span> <span class=\"py\">Rènshi nǐ! Tā shì xiānsheng ma?</span></div><div class=\"ex\"><b>B:</b> <span class=\"hz\">他是学生。</span> <span class=\"py\">Tā shì xuésheng.</span></div></div><b>Q1.</b> What does A ask first?   <b>Q2.</b> Who is 李明 to B?   <b>Q3.</b> Is 李明 a 先生 or a 学生?","bodyText":"Read, then answer. A: 你好!你叫什么名字? Nǐhǎo! Nǐ jiào shénme míngzi? B: 我叫王红。这是我的朋友,他叫李明。 Wǒ jiào Wáng Hóng. Zhè shì wǒ de péngyou, tā jiào Lǐ Míng. A: 认识你!他是先生吗? Rènshi nǐ! Tā shì xiānsheng ma? B: 他是学生。 Tā shì xuésheng. Q1. What does A ask first? Q2. Who is 李明 to B? Q3. Is 李明 a 先生 or a 学生?","keyHtml":"<b>Key:</b> Q1 B’s name (你叫什么名字?) · Q2 B’s friend (我的朋友) · Q3 a 学生 (student).","keyText":"Key: Q1 B’s name (你叫什么名字?) · Q2 B’s friend (我的朋友) · Q3 a 学生 (student).","feedbackEn":"✗ → 王红 / 李明 are people’s names, not new vocabulary.","rubricEn":"","sourceDay":3,"sourceSection":6,"familyRu":"Чтение","generated":false},{"id":"D03-S7-E1","code":"L01","family":"listening","nameEn":"Comprehension Mcq","titleEn":"What did you hear?","mode":"KEYED","bodyHtml":"Hear a line, choose its meaning. <b>1</b> [<span class=\"mono\">HSK1.D03.LC.01</span>] → (a) “This is my friend.” (b) “That is my teacher.”   <b>2</b> [<span class=\"mono\">HSK1.D03.LC.02</span>] → (a) “This is a lady.” (b) “That is a gentleman.”","bodyText":"Hear a line, choose its meaning. 1 [ HSK1.D03.LC.01 ] → (a) “This is my friend.” (b) “That is my teacher.” 2 [ HSK1.D03.LC.02 ] → (a) “This is a lady.” (b) “That is a gentleman.”","keyHtml":"<b>Key:</b> 1-a (这是我的朋友。) · 2-b (那是先生。)","keyText":"Key: 1-a (这是我的朋友。) · 2-b (那是先生。)","feedbackEn":"✗ → replay slowly; listen for 这 (zhè) vs 那 (nà) at the start.","rubricEn":"","sourceDay":3,"sourceSection":7,"familyRu":"Аудирование","generated":false},{"id":"D03-S7-E2","code":"L03","family":"listening","nameEn":"Dictation","titleEn":"Write what you hear","mode":"KEYED","bodyHtml":"Each word is said once; write the hanzi (or pinyin) you hear. <b>1</b> [<span class=\"mono\">HSK1.D03.DCT.01</span>]   <b>2</b> [<span class=\"mono\">HSK1.D03.DCT.02</span>]   <b>3</b> [<span class=\"mono\">HSK1.D03.DCT.03</span>]   <b>4</b> [<span class=\"mono\">HSK1.D03.DCT.04</span>]","bodyText":"Each word is said once; write the hanzi (or pinyin) you hear. 1 [ HSK1.D03.DCT.01 ] 2 [ HSK1.D03.DCT.02 ] 3 [ HSK1.D03.DCT.03 ] 4 [ HSK1.D03.DCT.04 ]","keyHtml":"<b>Key (this build):</b> 1 → 男 (nán) · 2 → 女 (nǚ) · 3 → 男朋友 (nánpéngyou) · 4 → 女士 (nǚshì).","keyText":"Key (this build): 1 → 男 (nán) · 2 → 女 (nǚ) · 3 → 男朋友 (nánpéngyou) · 4 → 女士 (nǚshì).","feedbackEn":"✗ on 男/女 → both start n-; the vowel differs (nán vs nǚ). Replay slowly.","rubricEn":"","sourceDay":3,"sourceSection":7,"familyRu":"Аудирование","generated":false},{"id":"D03-S8-E1","code":"W01","family":"writing","nameEn":"Character Tracing","titleEn":"Trace","mode":"SELF","bodyHtml":"Trace, following stroke order: <span class=\"hz\">名字</span> · <span class=\"hz\">朋友</span> · <span class=\"hz\">男</span> · <span class=\"hz\">女</span>.","bodyText":"Trace, following stroke order: 名字 · 朋友 · 男 · 女 .","keyHtml":"","keyText":"","feedbackEn":"","rubricEn":"✓ strokes in order, roughly square · ~ shape right, order slips · ✗ skipped strokes. Trace each twice.","sourceDay":3,"sourceSection":8,"familyRu":"Письмо","generated":false},{"id":"D03-S8-E2","code":"W04","family":"writing","nameEn":"Guided Copying","titleEn":"Copy the introduction","mode":"SELF","bodyHtml":"Copy each once, from the model: <span class=\"hz\">这是我的朋友。</span> · <span class=\"hz\">那是女士。</span> · <span class=\"hz\">他是先生。</span>","bodyText":"Copy each once, from the model: 这是我的朋友。 · 那是女士。 · 他是先生。","keyHtml":"","keyText":"","feedbackEn":"","rubricEn":"✓ matches the model and is readable · ✗ wrong component → copy once more.","sourceDay":3,"sourceSection":8,"familyRu":"Письмо","generated":false},{"id":"D03-S9-E1","code":"S04","family":"speaking","nameEn":"Cued Spoken Response","titleEn":"Say the right thing","mode":"KEYED","bodyHtml":"Say the right line aloud. <b>1</b> Tell someone your name.   <b>2</b> Introduce your boyfriend.   <b>3</b> You’ve just met someone.","bodyText":"Say the right line aloud. 1 Tell someone your name. 2 Introduce your boyfriend. 3 You’ve just met someone.","keyHtml":"<b>Accepted:</b> 1 → 我叫…(name)。 · 2 → 这是我的男朋友。 · 3 → 认识你!","keyText":"Accepted: 1 → 我叫…(name)。 · 2 → 这是我的男朋友。 · 3 → 认识你!","feedbackEn":"✓ on 2 → “you linked 我 + 的 + 男朋友 correctly.”","rubricEn":"","sourceDay":3,"sourceSection":9,"familyRu":"Говорение","generated":false},{"id":"D03-S10-E1","code":"G01","family":"grammar","nameEn":"Word Order Build","titleEn":"Sentence scramble","mode":"KEYED","bodyHtml":"Arrange the tokens into one correct sentence. <b>1</b> [ 什么 / 你 / 名字 / 叫 ]   <b>2</b> [ 的 / 这 / 朋友 / 我 / 是 ]","bodyText":"Arrange the tokens into one correct sentence. 1 [ 什么 / 你 / 名字 / 叫 ] 2 [ 的 / 这 / 朋友 / 我 / 是 ]","keyHtml":"<b>Key:</b> 1 → 你叫什么名字?   2 → 这是我的朋友。","keyText":"Key: 1 → 你叫什么名字? 2 → 这是我的朋友。","feedbackEn":"✗ → question word 什么 sits where the answer goes; 的 links 我 + 朋友.","rubricEn":"","sourceDay":3,"sourceSection":10,"familyRu":"Грамматика","generated":false},{"id":"D03-S11-E1","code":"G12","family":"grammar","nameEn":"Grammar Error Correction","titleEn":"Fix yesterday’s sentence","mode":"KEYED","bodyHtml":"Each has one error in a <b>Day 1–2</b> pattern (是 / 不是 / 吗 / 们). Fix it. <b>1</b> <span class=\"hz\">他们不学生。</span>   <b>2</b> <span class=\"hz\">你们是老师不吗?</span>","bodyText":"Each has one error in a Day 1–2 pattern (是 / 不是 / 吗 / 们). Fix it. 1 他们不学生。 2 你们是老师不吗?","keyHtml":"<b>Key:</b> 1 → 他们<b>不是</b>学生。 · 2 → 你们是老师吗?(drop the stray 不).","keyText":"Key: 1 → 他们 不是 学生。 · 2 → 你们是老师吗?(drop the stray 不).","feedbackEn":"Drills only Day 1–2 grammar — today’s 的/什么/这那 are never error-targeted on intro day (EC-11).","rubricEn":"","sourceDay":3,"sourceSection":11,"familyRu":"Грамматика","generated":false},{"id":"D03-S11-E2","code":"V05","family":"vocabulary","nameEn":"Covered Prompt Recall","titleEn":"Recall today’s people-words","mode":"SELF","bodyHtml":"Cover and recall: <span class=\"hz\">朋友 · 先生 · 女士 · 男 · 女 · 男朋友 · 认识</span>. Tomorrow’s taste — <span class=\"hz\">很</span> <span class=\"py\">hěn</span> “very” (taught Day 4).","bodyText":"Cover and recall: 朋友 · 先生 · 女士 · 男 · 女 · 男朋友 · 认识 . Tomorrow’s taste — 很 hěn “very” (taught Day 4).","keyHtml":"","keyText":"","feedbackEn":"","rubricEn":"“Done” = finished, not graded on accuracy (HW-4). The 很 taste primes one Day-4 item (HW-2).","sourceDay":3,"sourceSection":11,"familyRu":"Лексика","generated":false}],"audioManifest":[{"hanzi":"叫","pinyinWritten":"jiào","spokenRealization":"jiào","assetId":"HSK1.W.91","audioUrl":null,"clipType":"WORD","voiceRole":"V-NARR","speed":"both","key":"HSK1.W.91"},{"hanzi":"名字","pinyinWritten":"míngzi","spokenRealization":"míngzi","assetId":"HSK1.W.131","audioUrl":null,"clipType":"WORD","voiceRole":"V-NARR","speed":"both","key":"HSK1.W.131"},{"hanzi":"什么","pinyinWritten":"shénme","spokenRealization":"shénme","assetId":"HSK1.W.183","audioUrl":null,"clipType":"WORD","voiceRole":"V-NARR","speed":"both","key":"HSK1.W.183"},{"hanzi":"的","pinyinWritten":"de","spokenRealization":"de","assetId":"HSK1.W.30","audioUrl":null,"clipType":"WORD","voiceRole":"V-NARR","speed":"both","key":"HSK1.W.30"},{"hanzi":"这","pinyinWritten":"zhè","spokenRealization":"zhè","assetId":"HSK1.W.280","audioUrl":null,"clipType":"WORD","voiceRole":"V-NARR","speed":"both","key":"HSK1.W.280"},{"hanzi":"那","pinyinWritten":"nà","spokenRealization":"nà","assetId":"HSK1.W.137","audioUrl":null,"clipType":"WORD","voiceRole":"V-NARR","speed":"both","key":"HSK1.W.137"},{"hanzi":"认识","pinyinWritten":"rènshi","spokenRealization":"rènshi","assetId":"HSK1.W.172","audioUrl":null,"clipType":"WORD","voiceRole":"V-NARR","speed":"both","key":"HSK1.W.172"},{"hanzi":"朋友","pinyinWritten":"péngyou","spokenRealization":"péngyou","assetId":"HSK1.W.157","audioUrl":null,"clipType":"WORD","voiceRole":"V-NARR","speed":"both","key":"HSK1.W.157"},{"hanzi":"先生","pinyinWritten":"xiānsheng","spokenRealization":"xiānsheng","assetId":"HSK1.W.232","audioUrl":null,"clipType":"WORD","voiceRole":"V-NARR","speed":"both","key":"HSK1.W.232"},{"hanzi":"女士","pinyinWritten":"nǚshì","spokenRealization":"nǚshì","assetId":"HSK1.W.156","audioUrl":null,"clipType":"WORD","voiceRole":"V-NARR","speed":"both","key":"HSK1.W.156"},{"hanzi":"男","pinyinWritten":"nán","spokenRealization":"nán","assetId":"HSK1.W.143","audioUrl":null,"clipType":"WORD","voiceRole":"V-NARR","speed":"both","key":"HSK1.W.143"},{"hanzi":"女","pinyinWritten":"nǚ","spokenRealization":"nǚ","assetId":"HSK1.W.153","audioUrl":null,"clipType":"WORD","voiceRole":"V-NARR","speed":"both","key":"HSK1.W.153"},{"hanzi":"男朋友","pinyinWritten":"nánpéngyou","spokenRealization":"nánpéngyou","assetId":"HSK1.W.144","audioUrl":null,"clipType":"WORD","voiceRole":"V-NARR","speed":"both","key":"HSK1.W.144"},{"hanzi":"你好!你叫什么名字?","pinyinWritten":"Nǐhǎo! Nǐ jiào shénme míngzi?","spokenRealization":"(as written)","assetId":"HSK1.D03.DLG.1.L1","audioUrl":null,"clipType":"DIALOGUE_LINE","voiceRole":"V-F1","speed":"natural","key":"HSK1.D03.DLG.1.L1"},{"hanzi":"我叫王红。这是我的朋友,他叫李明。","pinyinWritten":"Wǒ jiào Wáng Hóng. Zhè shì wǒ de péngyou, tā jiào Lǐ Míng.","spokenRealization":"(as written)","assetId":"HSK1.D03.DLG.1.L2","audioUrl":null,"clipType":"DIALOGUE_LINE","voiceRole":"V-M1","speed":"natural","key":"HSK1.D03.DLG.1.L2"},{"hanzi":"认识你!他是先生吗?","pinyinWritten":"Rènshi nǐ! Tā shì xiānsheng ma?","spokenRealization":"(as written)","assetId":"HSK1.D03.DLG.1.L3","audioUrl":null,"clipType":"DIALOGUE_LINE","voiceRole":"V-F1","speed":"natural","key":"HSK1.D03.DLG.1.L3"},{"hanzi":"他是学生。","pinyinWritten":"Tā shì xuésheng.","spokenRealization":"(as written)","assetId":"HSK1.D03.DLG.1.L4","audioUrl":null,"clipType":"DIALOGUE_LINE","voiceRole":"V-M1","speed":"natural","key":"HSK1.D03.DLG.1.L4"},{"hanzi":"这是我的朋友。","pinyinWritten":"Zhè shì wǒ de péngyou.","spokenRealization":"Zhè shì wǒ de péngyou.","assetId":"HSK1.D03.LC.01","audioUrl":null,"clipType":"COMPREHENSION","voiceRole":"V-F1","speed":"slow","key":"HSK1.D03.LC.01"},{"hanzi":"那是先生。","pinyinWritten":"Nà shì xiānsheng.","spokenRealization":"Nà shì xiānsheng.","assetId":"HSK1.D03.LC.02","audioUrl":null,"clipType":"COMPREHENSION","voiceRole":"V-M1","speed":"slow","key":"HSK1.D03.LC.02"},{"hanzi":"男","pinyinWritten":"nán","spokenRealization":"nán","assetId":"HSK1.D03.DCT.01","audioUrl":null,"clipType":"DICTATION","voiceRole":"V-NARR","speed":"slow","key":"HSK1.D03.DCT.01"},{"hanzi":"女","pinyinWritten":"nǚ","spokenRealization":"nǚ","assetId":"HSK1.D03.DCT.02","audioUrl":null,"clipType":"DICTATION","voiceRole":"V-NARR","speed":"slow","key":"HSK1.D03.DCT.02"},{"hanzi":"男朋友","pinyinWritten":"nánpéngyou","spokenRealization":"nánpéngyou","assetId":"HSK1.D03.DCT.03","audioUrl":null,"clipType":"DICTATION","voiceRole":"V-NARR","speed":"slow","key":"HSK1.D03.DCT.03"},{"hanzi":"女士","pinyinWritten":"nǚshì","spokenRealization":"nǚshì","assetId":"HSK1.D03.DCT.04","audioUrl":null,"clipType":"DICTATION","voiceRole":"V-NARR","speed":"slow","key":"HSK1.D03.DCT.04"}],"sourceFile":"Day_03_v2.html","titleRu":"Имена, 的 и 这/那 — знакомимся","summaryRu":"Спросить имя, показать на человека и сказать, чьё это.","world":1,"worldRu":"Мир 1 · Основы","quiz":[{"id":"q-03-py-W280","type":"multiple-choice","promptRu":"Выберите правильный пиньинь","stimulus":{"hanzi":"这","pinyin":null,"audioUrl":null},"options":[{"id":"W91","label":"jiào"},{"id":"W204","label":"tāmen"},{"id":"W280","label":"zhè"},{"id":"W153","label":"nǚ"}],"answerId":"W280","explanationRu":"这 читается zhè.","stage":"practice","xp":10,"generated":true,"derivedFrom":{"source":"vocabulary-master","wordId":"W280"},"kind":"py"},{"id":"q-03-mean-W131","type":"multiple-choice","promptRu":"Что означает это слово?","stimulus":{"hanzi":"名字","pinyin":"míngzi","audioUrl":null},"options":[{"id":"W131","label":"имя"},{"id":"W242","label":"спасибо"},{"id":"W13","label":"пожалуйста (в ответ на спасибо)"},{"id":"W137","label":"тот; в таком случае"}],"answerId":"W131","explanationRu":"名字 (míngzi) — имя.","stage":"practice","xp":10,"generated":true,"derivedFrom":{"source":"vocabulary-master","wordId":"W131"},"kind":"mean"},{"id":"q-03-listen-W91","type":"multiple-choice","promptRu":"Послушайте и выберите, что прозвучало","stimulus":{"hanzi":"叫","pinyin":null,"audioUrl":null,"secret":true},"listen":true,"options":[{"id":"W280","label":"这","sub":"zhè"},{"id":"W273","label":"再见","sub":"zàijiàn"},{"id":"W147","label":"你","sub":"nǐ"},{"id":"W91","label":"叫","sub":"jiào"}],"answerId":"W91","explanationRu":"叫 (jiào) — называться; звать.","stage":"practice","xp":12,"generated":true,"derivedFrom":{"source":"vocabulary-master","wordId":"W91"},"kind":"listen"},{"id":"q-03-mean-W157","type":"multiple-choice","promptRu":"Что означает это слово?","stimulus":{"hanzi":"朋友","pinyin":"péngyou","audioUrl":null},"options":[{"id":"W148","label":"здравствуй, привет"},{"id":"W273","label":"до свидания"},{"id":"W149","label":"вы (мн. ч.)"},{"id":"W157","label":"друг"}],"answerId":"W157","explanationRu":"朋友 (péngyou) — друг.","stage":"practice","xp":10,"generated":true,"derivedFrom":{"source":"vocabulary-master","wordId":"W157"},"kind":"mean"},{"id":"q-03-mean-W91","type":"multiple-choice","promptRu":"Что означает это слово?","stimulus":{"hanzi":"叫","pinyin":"jiào","audioUrl":null},"options":[{"id":"W242","label":"спасибо"},{"id":"W201","label":"он"},{"id":"W91","label":"называться; звать"},{"id":"W143","label":"мужской, мужчина"}],"answerId":"W91","explanationRu":"叫 (jiào) — называться; звать.","stage":"practice","xp":10,"generated":true,"derivedFrom":{"source":"vocabulary-master","wordId":"W91"},"kind":"mean"},{"id":"q-03-listen-W131","type":"multiple-choice","promptRu":"Послушайте и выберите, что прозвучало","stimulus":{"hanzi":"名字","pinyin":null,"audioUrl":null,"secret":true},"listen":true,"options":[{"id":"W249","label":"学生","sub":"xuésheng"},{"id":"W26","label":"大家","sub":"dàjiā"},{"id":"W115","label":"吗","sub":"ma"},{"id":"W131","label":"名字","sub":"míngzi"}],"answerId":"W131","explanationRu":"名字 (míngzi) — имя.","stage":"practice","xp":12,"generated":true,"derivedFrom":{"source":"vocabulary-master","wordId":"W131"},"kind":"listen"},{"id":"q-03-py-W91","type":"multiple-choice","promptRu":"Выберите правильный пиньинь","stimulus":{"hanzi":"叫","pinyin":null,"audioUrl":null},"options":[{"id":"W222","label":"wǒ"},{"id":"W204","label":"tāmen"},{"id":"W91","label":"jiào"},{"id":"W242","label":"xièxie"}],"answerId":"W91","explanationRu":"叫 читается jiào.","stage":"practice","xp":10,"generated":true,"derivedFrom":{"source":"vocabulary-master","wordId":"W91"},"kind":"py"},{"id":"q-03-order-G6","type":"word-order","promptRu":"Соберите предложение в правильном порядке","stimulus":{"audioUrl":null},"hintRu":"Zhè shì wǒ de péngyou.","tokens":["是","的","朋友","这","我"],"answer":["这","是","我","的","朋友"],"check":{"classes":["multiple"],"accept":[{"answer":["我","是","这","的","朋友"],"class":"multiple"}],"humanReviewed":true,"reviewedBy":"автор, 2026-10-05"},"explanationRu":"这是我的朋友。 — Это мой друг.  ·  Притяжательная и определительная частица 的","stage":"speech","xp":20,"generated":true,"derivedFrom":{"source":"lesson-grammar-example","grammarId":"G6"},"kind":"order"},{"id":"q-03-gap-G6","type":"multiple-choice","promptRu":"Какое слово пропущено?","stimulus":{"hanzi":"这是我＿朋友","pinyin":null,"audioUrl":null},"options":[{"id":"W143","label":"男","sub":"nán"},{"id":"W206","label":"她们","sub":"tāmen"},{"id":"W30","label":"的","sub":"de"},{"id":"W91","label":"叫","sub":"jiào"}],"answerId":"W30","explanationRu":"这是我的朋友。 — Это мой друг.","stage":"speech","xp":18,"generated":true,"derivedFrom":{"source":"lesson-grammar-example","grammarId":"G6"},"kind":"gap"},{"id":"q-03-order-G9","type":"word-order","promptRu":"Соберите предложение в правильном порядке","stimulus":{"audioUrl":null},"hintRu":"Zhè shì wǒ de nánpéngyou.","tokens":["我","男朋友","的","是","这"],"answer":["这","是","我","的","男朋友"],"check":{"classes":["multiple"],"accept":[{"answer":["我","是","这","的","男朋友"],"class":"multiple"}],"humanReviewed":true,"reviewedBy":"автор, 2026-10-05"},"explanationRu":"这是我的男朋友。 — Это мой парень.  ·  Указательные 这/那 + 是","stage":"speech","xp":20,"generated":true,"derivedFrom":{"source":"lesson-grammar-example","grammarId":"G9"},"kind":"order"},{"id":"q-03-gap-G5","type":"multiple-choice","promptRu":"Какое слово пропущено?","stimulus":{"hanzi":"我们是学生他们是＿","pinyin":null,"audioUrl":null},"options":[{"id":"W204","label":"他们","sub":"tāmen"},{"id":"W107","label":"老师","sub":"lǎoshī"},{"id":"W232","label":"先生","sub":"xiānsheng"},{"id":"W148","label":"你好","sub":"nǐhǎo"}],"answerId":"W107","explanationRu":"我们是学生,他们是老师。 — Мы студенты, они учителя.","stage":"speech","xp":18,"generated":true,"derivedFrom":{"source":"lesson-grammar-example","grammarId":"G5"},"kind":"gap"},{"id":"q-03-order-G7","type":"word-order","promptRu":"Соберите предложение в правильном порядке","stimulus":{"audioUrl":null},"hintRu":"Nǐ jiào shénme míngzi?","tokens":["什么","名字","叫","你"],"answer":["你","叫","什么","名字"],"check":{"classes":["strict"],"accept":[],"humanReviewed":true,"reviewedBy":"автор, 2026-10-05"},"explanationRu":"你叫什么名字? — Как тебя зовут?  ·  Вопрос «что» с 什么","stage":"speech","xp":20,"generated":true,"derivedFrom":{"source":"lesson-grammar-example","grammarId":"G7"},"kind":"order"},{"id":"q-03-hz-W137","type":"multiple-choice","promptRu":"Как будет «тот; в таком случае»?","stimulus":null,"options":[{"id":"W137","label":"那","sub":"nà"},{"id":"W280","label":"这","sub":"zhè"},{"id":"W222","label":"我","sub":"wǒ"},{"id":"W131","label":"名字","sub":"míngzi"}],"answerId":"W137","explanationRu":"тот; в таком случае — 那 (nà).","stage":"final","xp":20,"generated":true,"derivedFrom":{"source":"vocabulary-master","wordId":"W137"},"kind":"hz"},{"id":"q-03-mean-W183","type":"multiple-choice","promptRu":"Что означает это слово?","stimulus":{"hanzi":"什么","pinyin":"shénme","audioUrl":null},"options":[{"id":"W183","label":"что"},{"id":"W91","label":"называться; звать"},{"id":"W15","label":"не, нет"},{"id":"W273","label":"до свидания"}],"answerId":"W183","explanationRu":"什么 (shénme) — что.","stage":"final","xp":10,"generated":true,"derivedFrom":{"source":"vocabulary-master","wordId":"W183"},"kind":"mean"},{"id":"q-03-listen-W183","type":"multiple-choice","promptRu":"Послушайте и выберите, что прозвучало","stimulus":{"hanzi":"什么","pinyin":null,"audioUrl":null,"secret":true},"listen":true,"options":[{"id":"W148","label":"你好","sub":"nǐhǎo"},{"id":"W183","label":"什么","sub":"shénme"},{"id":"W149","label":"你们","sub":"nǐmen"},{"id":"W153","label":"女","sub":"nǚ"}],"answerId":"W183","explanationRu":"什么 (shénme) — что.","stage":"final","xp":12,"generated":true,"derivedFrom":{"source":"vocabulary-master","wordId":"W183"},"kind":"listen"},{"id":"q-03-hz-W91","type":"multiple-choice","promptRu":"Как будет «называться; звать»?","stimulus":null,"options":[{"id":"W137","label":"那","sub":"nà"},{"id":"W91","label":"叫","sub":"jiào"},{"id":"W156","label":"女士","sub":"nǚshì"},{"id":"W151","label":"您","sub":"nín"}],"answerId":"W91","explanationRu":"называться; звать — 叫 (jiào).","stage":"final","xp":20,"generated":true,"derivedFrom":{"source":"vocabulary-master","wordId":"W91"},"kind":"hz"},{"id":"q-03-mean-W137","type":"multiple-choice","promptRu":"Что означает это слово?","stimulus":{"hanzi":"那","pinyin":"nà","audioUrl":null},"options":[{"id":"W137","label":"тот; в таком случае"},{"id":"W204","label":"они (муж. / смешанная группа)"},{"id":"W203","label":"она"},{"id":"W121","label":"ничего страшного"}],"answerId":"W137","explanationRu":"那 (nà) — тот; в таком случае.","stage":"final","xp":10,"generated":true,"derivedFrom":{"source":"vocabulary-master","wordId":"W137"},"kind":"mean"},{"id":"q-03-py-W30","type":"multiple-choice","promptRu":"Выберите правильный пиньинь","stimulus":{"hanzi":"的","pinyin":null,"audioUrl":null},"options":[{"id":"W222","label":"wǒ"},{"id":"W137","label":"nà"},{"id":"W30","label":"de"},{"id":"W144","label":"nánpéngyou"}],"answerId":"W30","explanationRu":"的 читается de.","stage":"final","xp":10,"generated":true,"derivedFrom":{"source":"vocabulary-master","wordId":"W30"},"kind":"py"}],"counts":{"newWords":13,"newGrammar":3,"sections":20,"exercises":13,"quiz":18,"audioRows":23,"cumulativeWords":38}},"location":{"day":3,"slug":"day-03","world":1,"orderInWorld":3,"nameRu":"Двор с именами","type":"courtyard","missionTitleRu":"Как тебя зовут","pandaIntroRu":"Здесь спрашивают имена. Узнай, кто есть кто.","curriculumTitleRu":"Имена, 的 и 这/那 — знакомимся","curriculumSummaryRu":"Спросить имя, показать на человека и сказать, чьё это.","isCheckpoint":false,"newWords":13,"newGrammar":3,"questionCount":18,"stages":[{"key":"warmup","titleRu":"Разогрев","hintRu":"Вернуться к тому, что подошло по сроку","questionCount":8,"xp":0,"teaching":false,"review":false,"content":"warmup","block":"warmup"},{"key":"learn","titleRu":"Изучение","hintRu":"Познакомиться с новым материалом","questionCount":0,"xp":15,"teaching":true,"review":false,"block":"learn"},{"key":"practice","titleRu":"Практика","hintRu":"Потренировать слова дня","questionCount":7,"xp":30,"teaching":false,"review":false,"block":"learn"},{"key":"dialogue","titleRu":"Разговор","hintRu":"Услышать слова дня в живой речи","questionCount":4,"xp":25,"teaching":false,"review":false,"content":"dialogue","block":"apply"},{"key":"listening","titleRu":"Аудирование","hintRu":"Понять фразы на слух","questionCount":2,"xp":25,"teaching":false,"review":false,"content":"listening","block":"apply"},{"key":"speech","titleRu":"Речь","hintRu":"Собрать из них фразы","questionCount":5,"xp":30,"teaching":false,"review":false,"block":"apply"},{"key":"final","titleRu":"Проверка","hintRu":"Показать, что запомнилось","questionCount":6,"xp":55,"teaching":false,"review":false,"block":"apply"},{"key":"writing","titleRu":"Письмо","hintRu":"Порядок черт: посмотреть, обвести и написать иероглифы дня","questionCount":6,"xp":0,"teaching":false,"review":false,"content":"writing","block":"bridge","humanReviewed":true,"reviewedBy":"автор, 2026-10-05"},{"key":"homework","titleRu":"Мост к завтра","hintRu":"Два задания на сегодня, одно на повтор и тизер завтрашнего дня","questionCount":4,"xp":0,"teaching":false,"review":false,"content":"homework","block":"bridge"}],"scenario":{"key":"phonetic","titleRu":"Фонетический день","leadRu":"Сегодня главное — звук: слушаем, различаем, повторяем вслух.","humanReviewed":true,"reviewedBy":"автор, 2026-10-05"},"reward":{"xp":280,"badge":null},"videos":[],"boss":null,"map":{"x":18,"y":85},"story":{"beginRu":"Во дворе все знают друг друга по именам — кроме вас. Пора узнать, кто есть кто и чей это дом.","endRu":"Теперь и вас знают по имени. Сяоюй довольна: «Нас запомнили».","humanReviewed":true,"reviewedBy":"автор, 2026-10-05"},"labelAnchor":"above","labelLines":["Двор с именами"]},"next":{"day":4,"slug":"day-04","world":1,"orderInWorld":4,"nameRu":"Чайный дом","type":"teahouse","missionTitleRu":"Вежливый гость","pandaIntroRu":"В чайном доме важна вежливость. Спроси «кто?» и скажи это красиво.","curriculumTitleRu":"«Кто?», вежливое 请 и 很 + прилагательное","curriculumSummaryRu":"Спросить «кто», вежливо обратиться и описать человека прилагательным.","isCheckpoint":false,"newWords":12,"newGrammar":3,"questionCount":18,"stages":[{"key":"warmup","titleRu":"Разогрев","hintRu":"Вернуться к тому, что подошло по сроку","questionCount":8,"xp":0,"teaching":false,"review":false,"content":"warmup","block":"warmup"},{"key":"learn","titleRu":"Изучение","hintRu":"Познакомиться с новым материалом","questionCount":0,"xp":15,"teaching":true,"review":false,"block":"learn"},{"key":"practice","titleRu":"Практика","hintRu":"Потренировать слова дня","questionCount":7,"xp":30,"teaching":false,"review":false,"block":"learn"},{"key":"dialogue","titleRu":"Разговор","hintRu":"Услышать слова дня в живой речи","questionCount":3,"xp":25,"teaching":false,"review":false,"content":"dialogue","block":"apply"},{"key":"listening","titleRu":"Аудирование","hintRu":"Понять фразы на слух","questionCount":3,"xp":25,"teaching":false,"review":false,"content":"listening","block":"apply"},{"key":"speech","titleRu":"Речь","hintRu":"Собрать из них фразы","questionCount":5,"xp":30,"teaching":false,"review":false,"block":"apply"},{"key":"final","titleRu":"Проверка","hintRu":"Показать, что запомнилось","questionCount":6,"xp":55,"teaching":false,"review":false,"block":"apply"},{"key":"writing","titleRu":"Письмо","hintRu":"Порядок черт: посмотреть, обвести и написать иероглифы дня","questionCount":3,"xp":0,"teaching":false,"review":false,"content":"writing","block":"bridge","humanReviewed":true,"reviewedBy":"автор, 2026-10-05"},{"key":"homework","titleRu":"Мост к завтра","hintRu":"Два задания на сегодня, одно на повтор и тизер завтрашнего дня","questionCount":4,"xp":0,"teaching":false,"review":false,"content":"homework","block":"bridge"}],"scenario":{"key":"grammar","titleRu":"День грамматики","leadRu":"Новых конструкций несколько — одну и ту же фразу будем перестраивать по-разному.","humanReviewed":true,"reviewedBy":"автор, 2026-10-05"},"reward":{"xp":280,"badge":null},"videos":[],"boss":null,"map":{"x":24,"y":90},"story":{"beginRu":"Хозяйка чайного дома приглашает войти. Здесь ценят вежливость: гостя просят сесть, а хозяйку благодарят.","endRu":"Хозяйка спрашивает, кто ваш спутник, — и вы отвечаете вежливо и с похвалой. Сяоюй смущена.","humanReviewed":true,"reviewedBy":"автор, 2026-10-05"},"labelAnchor":"below","labelLines":["Чайный дом"]},"prev":{"day":2,"slug":"day-02","world":1,"orderInWorld":2,"nameRu":"Сад у дороги","type":"garden","missionTitleRu":"Разговор в саду","pandaIntroRu":"В саду люди. Поздоровайся со всеми сразу — и не забудь попрощаться.","curriculumTitleRu":"Множественное число с 们, «а ты?» с 呢 и вежливые формулы","curriculumSummaryRu":"Множественные местоимения, встречный вопрос 呢, спасибо / извини / до свидания.","isCheckpoint":false,"newWords":12,"newGrammar":2,"questionCount":17,"stages":[{"key":"warmup","titleRu":"Разогрев","hintRu":"Вернуться к тому, что подошло по сроку","questionCount":8,"xp":0,"teaching":false,"review":false,"content":"warmup","block":"warmup"},{"key":"learn","titleRu":"Изучение","hintRu":"Познакомиться с новым материалом","questionCount":0,"xp":15,"teaching":true,"review":false,"block":"learn"},{"key":"practice","titleRu":"Практика","hintRu":"Потренировать слова дня","questionCount":7,"xp":30,"teaching":false,"review":false,"block":"learn"},{"key":"dialogue","titleRu":"Разговор","hintRu":"Услышать слова дня в живой речи","questionCount":4,"xp":25,"teaching":false,"review":false,"content":"dialogue","block":"apply"},{"key":"listening","titleRu":"Аудирование","hintRu":"Понять фразы на слух","questionCount":2,"xp":25,"teaching":false,"review":false,"content":"listening","block":"apply"},{"key":"speech","titleRu":"Речь","hintRu":"Собрать из них фразы","questionCount":4,"xp":30,"teaching":false,"review":false,"block":"apply"},{"key":"final","titleRu":"Проверка","hintRu":"Показать, что запомнилось","questionCount":6,"xp":55,"teaching":false,"review":false,"block":"apply"},{"key":"writing","titleRu":"Письмо","hintRu":"Порядок черт: посмотреть, обвести и написать иероглифы дня","questionCount":2,"xp":0,"teaching":false,"review":false,"content":"writing","block":"bridge","humanReviewed":true,"reviewedBy":"автор, 2026-10-05"},{"key":"homework","titleRu":"Мост к завтра","hintRu":"Два задания на сегодня, одно на повтор и тизер завтрашнего дня","questionCount":4,"xp":0,"teaching":false,"review":false,"content":"homework","block":"bridge"}],"scenario":{"key":"phonetic","titleRu":"Фонетический день","leadRu":"Сегодня главное — звук: слушаем, различаем, повторяем вслух.","humanReviewed":true,"reviewedBy":"автор, 2026-10-05"},"reward":{"xp":280,"badge":null},"videos":[],"boss":null,"map":{"x":12,"y":88},"story":{"beginRu":"В саду у дороги собрались местные. Здороваться с каждым по очереди долго — здесь здороваются со всеми сразу.","endRu":"Сад отвечает на ваше приветствие, а одна бабушка спрашивает, как дела у Сяоюй.","humanReviewed":true,"reviewedBy":"автор, 2026-10-05"},"labelAnchor":"below","labelLines":["Сад у дороги"]}}]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#FBFAF6"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"Двор с именами — День 3 — HSK 1 Journey"}],["$","meta","4",{"name":"description","content":"Как тебя зовут. Спросить имя, показать на человека и сказать, чьё это."}],["$","meta","5",{"name":"application-name","content":"HSK 1 Journey"}],["$","meta","6",{"name":"keywords","content":"HSK 1,китайский язык,HSK 3.0,китайский с нуля,иероглифы,пиньинь"}],["$","meta","7",{"property":"og:title","content":"HSK 1 Journey — Китайский язык за 30 дней"}],["$","meta","8",{"property":"og:description","content":"30 дней, чтобы пройти свой первый большой путь в китайском"}],["$","meta","9",{"property":"og:locale","content":"ru_RU"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"HSK 1 Journey — Китайский язык за 30 дней"}],["$","meta","13",{"name":"twitter:description","content":"30 дней, чтобы пройти свой первый большой путь в китайском"}]]
+1:null
